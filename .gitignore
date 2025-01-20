@@ -1,0 +1,20 @@
+# Folders
+/ishayu_metrics/
+/ROS/
+/meetings/
+/video/
+/white_paper/
+/titan-scope/
+/surface_mesh/
+/experiment_velocities/
+
+# Large Files
+*mp4
+*.log
+*.tmp
+*.swp
+*.iso
+*.tar.gz
+*.zip
+*.npz
+
