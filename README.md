@@ -1,0 +1,2 @@
+# EigenBot
+All things EigenBot
